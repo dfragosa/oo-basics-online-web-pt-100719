@@ -15,4 +15,5 @@ class Shoe
   
 end 
 
-Shoe.new("Adidas")
+adidas = Shoe.new("Adidas")
+adidas.condition("new")
