@@ -13,4 +13,4 @@ class Shoe
 end 
 
 adidas = Shoe.new("Adidas")
-Shoe.condition("new")
+adidas.condition("old")
